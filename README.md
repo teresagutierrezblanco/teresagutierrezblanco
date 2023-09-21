@@ -1,6 +1,6 @@
 👋 Hola, soy Teresa!
   
-Me interesa la programación y el desarrollo, desde front-end hasta tecnologías en la nube. 
-Estoy estudiando 4º de Ingeniería Informática en la Universidad de Santiago de Compostela
+Me interesa la programación y el desarrollo, desde back-end hasta tecnologías en la nube. 
+Soy una graduada en Ingeniería Informática por la Universidad de Santiago de Compostela.
 
 
